@@ -33,8 +33,6 @@ Git, GitHub, Unix/Linux Environments
 
 ---
 
-## 📈 LeetCode Stats
+<!--## 📈 LeetCode Stats
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/pranneethdk?theme=light&font=Noto%20Sans%20Bassa%20Vah&ext=heatmap)
-
----
+![LeetCode Stats](https://leetcard.jacoblin.cool/pranneethdk?theme=light&font=Noto%20Sans%20Bassa%20Vah&ext=heatmap) -->
