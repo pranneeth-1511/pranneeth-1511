@@ -4,8 +4,6 @@
 
 <h3 align="center">Cloud Computing & DevOps Enthusiast | Passionate about Building Scalable Solutions</h3>
 
-<img align="right" alt="Cloud Computing" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
-
 ---
 
 🔭 I’m currently pursuing **B.Tech in Computer Science and Business Systems (CSBS)** at **KPR Institute of Engineering and Technology, Coimbatore**
