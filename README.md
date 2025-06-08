@@ -35,4 +35,4 @@ Git, GitHub, Unix/Linux Environments
 
 📈 **LeetCode Stats**
 
-https://leetcard.jacoblin.cool/pranneethdk?theme=dark&font=changa&ext=heatmap
+![LeetCode Stats](https://leetcard.jacoblin.cool/pranneethdk?theme=dark&font=Noto%20Serif%20Georgian&ext=heatmap)
