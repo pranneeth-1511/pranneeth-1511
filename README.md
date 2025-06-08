@@ -12,27 +12,27 @@
 
 👯 I thrive in collaborative environments that encourage creativity and real-world problem-solving. I enjoy experimenting with new technologies and applying them to solve practical challenges. I perform well under pressure, backed by a flexible and analytical mindset.
 
-📫 **How to reach me:**  
+📫 <h2>How to reach me:</h2>  
 [LinkedIn](https://www.linkedin.com/in/pranneethdk/) | [Portfolio](https://www.pranneethdk.com/)
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ <h1>Tech Stack</h1>
 
-**Languages:**  
+<h3>Languages:</h3> 
 JavaScript, Python, HTML, CSS
 
-**Frameworks & Libraries:**  
+<h2>Frameworks & Libraries:</h2>  
 React.js, Node.js
 
-**Cloud & DevOps:**  
+<h2>Cloud & DevOps:</h2>  
 AWS, Azure, Docker, GitHub Actions
 
-**Tools & Platforms:**  
-Git, GitHub, Unix/Linux Environments
+<h2>Tools & Platforms:</h2>
+Git, AWS Services, GitHub, Unix/Linux Environments
 
 ---
 
-📈 **LeetCode Stats**
+📈 </h1>LeetCode Stats</h1>
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/pranneethdk?theme=dark&font=Noto%20Serif%20Georgian&ext=heatmap)
