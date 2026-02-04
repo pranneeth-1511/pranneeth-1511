@@ -29,9 +29,3 @@ AWS, Azure, Docker, GitHub Actions
 
 <h2>Tools & Platforms:</h2>
 Git, AWS Services, GitHub, Unix/Linux Environments
-
----
-
-# 📈 LeetCode Stats
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/pranneethdk?theme=dark&font=Noto%20Serif%20Georgian&ext=heatmap)
