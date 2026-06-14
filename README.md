@@ -14,7 +14,7 @@
 
 👯 I love turning complex problems into simple, beautiful, and intuitive designs. I bring a fresh perspective, an insatiable curiosity, and thrive in environments that challenge me to learn quickly and adapt to new frameworks.
 
-📫 Reach me via: [LinkedIn](https://www.linkedin.com/in/pranneethdk/) | [Portfolio](https://www.pranneethdk.com/) | [GitHub](https://github.com/pranneethdk) | ✉️ mail@pranneethdk.com
+📫 Reach me via: [LinkedIn](https://www.linkedin.com/in/pranneethdk/) | [Portfolio](https://www.pranneethdk.com/) | [Whatsapp](https://wa.me/+919025612701) | ✉️ mail@pranneethdk.com
 
 ---
 
