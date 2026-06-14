@@ -2,30 +2,55 @@
 
 <h1 align='center'> About Me </h1>
 
-<h3 align="center">Cloud Computing & DevOps Enthusiast | Passionate about Building Scalable Solutions</h3>
+<h3 align="center">Software Engineer | Building Scalable Full-Stack Applications & Cloud Infrastructure</h3>
 
 ---
 
-🔭 I’m currently pursuing **B.Tech in Computer Science and Business Systems (CSBS)** at **KPR Institute of Engineering and Technology, Coimbatore**
+🔭 I recently graduated with a **B.Tech in Computer Science and Business Systems (CSBS)** from **KPR Institute of Engineering and Technology, Coimbatore**.
 
-🌱 I’m currently learning **Cloud Computing, DevOps, and Web Development**
+💼 Currently a **Software Engineer** at **Dossier Nexus Academia PVT LTD**, where I lead frontend architecture development and manage cloud infrastructure and deployment pipelines (promoted from SDE Intern).
 
-👯 I thrive in collaborative environments that encourage creativity and real-world problem-solving. I enjoy experimenting with new technologies and applying them to solve practical challenges. I perform well under pressure, backed by a flexible and analytical mindset.
+🌱 I specialize in **modern web development, cloud architecture, and building user-centric full-stack digital experiences** from scratch to production.
 
-📫 Reach me via: [LinkedIn](https://www.linkedin.com/in/pranneethdk/) | [Portfolio](https://www.pranneethdk.com/)
+👯 I love turning complex problems into simple, beautiful, and intuitive designs. I bring a fresh perspective, an insatiable curiosity, and thrive in environments that challenge me to learn quickly and adapt to new frameworks.
+
+📫 Reach me via: [LinkedIn](https://www.linkedin.com/in/pranneethdk/) | [Portfolio](https://www.pranneethdk.com/) | [GitHub](https://github.com/pranneethdk) | ✉️ mail@pranneethdk.com
 
 ---
 
 # 🛠️ Tech Stack
 
-<h3>Languages:</h3> 
-JavaScript, Python, HTML, CSS
+### 🌐 Frontend Development
+React, TypeScript, JavaScript, Tailwind CSS, Vite, HTML & CSS, Clerk, Auth0 / Okta
 
-<h2>Frameworks & Libraries:</h2>  
-React.js, Node.js
+### 🗄️ Backend, Databases & BaaS
+Node.js, Supabase, MongoDB, Firebase
 
-<h2>Cloud & DevOps:</h2>  
-AWS, Azure, Docker, GitHub Actions
+### ☁️ Cloud Services & Infrastructure
+* **AWS:** EC2, IAM, S3, RDS, AWS Amplify
+* **Azure:** Entra ID, Azure DevOps, Azure B2C, Virtual Network
+* **GCP:** Management, Compute, Networking, GCP CI/CD
+* **Oracle:** OCI Data Foundations, OCI Foundations
 
-<h2>Tools & Platforms:</h2>
-Git, AWS Services, GitHub, Unix/Linux Environments
+### ⚙️ Tools, DevOps & Platforms
+Git & GitHub, CI/CD Pipelines, Linux, Vercel, Appsheet, Python, Java, Autodesk Fusion 360
+
+---
+
+# 🚀 Featured Projects
+
+* **E-Commerce Platform without Intermediaries** – A decentralized peer-to-peer transaction platform using React, Node.js, and Supabase featuring smart-contract-based payments.
+* **Event Management System** – A dynamic web-based event management portal built with React.js, Node.js, and Supabase integrated with Google SSO.
+* **AI-Powered Disease Prediction** – A multi-modal ML platform using Python, TensorFlow, Streamlit, and Pytesseract OCR to process clinical documents and predict prognoses.
+* **Smart Wheelchair** – An IoT-enabled wheelchair featuring a custom Python/Tkinter GUI, joystick input, and mobile app integration.
+* **Evaluation Platform** – A dynamic evaluation portal developed for the KPR Legacy Awards using AppSheet with Google SSO.
+
+---
+
+# 📜 Certifications
+* **GitHub Foundations** (Collaborative development & version control workflows)
+* **OCI Foundations Associate** & **OCI Data Foundations Associate 2024** (Oracle Cloud Infrastructure)
+* **Google Analytics** (Website data tracking and user behavior analysis)
+* **Java (Basic)** – HackerRank Certified
+* **AI For Everyone** – Coursera (DeepLearning.AI)
+* **Python for Beginners** – Udemy
